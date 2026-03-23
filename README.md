@@ -17,13 +17,17 @@
 
 <br/>
 
+---
+
 ### About Me
 
-I build modern web applications and powerful automation tools, ranging from responsive frontends to complex Python bots and web scraping systems. With four years of professional experience in Python engineering and full-stack development, I prioritize clean code architecture, efficient deployment, and seamless user experiences.
+> **"Bridging the gap between complex backend automation and intuitive frontend interfaces."**
 
-- **Focus Areas:** Frontend development, backend systems, automated data processing, and hardware-accelerated tools.
-- **Current Stack:** React, Tailwind CSS, Python, Playwright, and Selenium.
-- **Availability:** Open to freelance work and interesting projects.
+I am a Full-Stack Developer and Python Engineer with 4 years of professional experience. I specialize in building tools that eliminate manual work and scalable web platforms that prioritize seamless user experiences. From integrating advanced AI models into community bots to engineering secure transaction environments, I focus on clean architecture and highly optimized deployments.
+
+- **Core Expertise:** Web Automation, Complex Data Processing, Hardware-Accelerated AI, and Full-Stack Architecture.
+- **Current Focus:** Scaling platforms like Safouane Escrow and optimizing local desktop utilities.
+- **Philosophy:** Less manual work, more intelligent automation.
 
 ---
 
@@ -55,16 +59,47 @@ I build modern web applications and powerful automation tools, ranging from resp
 
 ### Featured Projects
 
-| Project Name | Description | Built With |
-|--------------|-------------|------------|
-| **Safouane Escrow System** | Secure web platform for online service transactions. Features a responsive, trust-focused interface to ensure full transparency between parties throughout the transaction lifecycle. | React, Tailwind, Backend APIs |
-| **SF Discord Bot** | Advanced moderation, automation, and music playback bot featuring 100+ commands. Scalable architecture designed for large server environments, integrated with advanced LLMs for support ticketing. | Python, Discord.py, AI Models |
-| **Excel Automation Tool** | Utility that automates the cleaning, analysis, and reporting of complex datasets, generating formatted reports and charts to reduce hours of manual work into a single script run. | Python, Pandas, Data Vis |
-| **System Cleaner** | Desktop application designed to optimize computer performance, manage system resources efficiently, and handle local file processing. | Python, PyQt5 |
+<br/>
+
+**Safouane Escrow System**
+> A secure, web-based platform designed for digital account and service transactions. Engineered with a highly responsive, trust-focused interface to ensure absolute transparency and security between parties throughout the entire transaction lifecycle.
+> <br/>
+> <img src="https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=F1C40F" alt="React" /> <img src="https://img.shields.io/badge/Tailwind_CSS-000000?style=flat-square&logo=tailwindcss&logoColor=F1C40F" alt="Tailwind" /> <img src="https://img.shields.io/badge/Secure_Gateway-000000?style=flat-square&logo=lock&logoColor=F1C40F" alt="Security" />
+
+<br/>
+
+**SF Discord Bot**
+> An advanced community management and automation bot featuring over 100 commands. Built with a highly scalable architecture for large server environments, seamlessly integrating intelligent support ticketing and automated moderation.
+> <br/>
+> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=F1C40F" alt="Python" /> <img src="https://img.shields.io/badge/Discord.py-000000?style=flat-square&logo=discord&logoColor=F1C40F" alt="Discord" /> <img src="https://img.shields.io/badge/AI_Integration-000000?style=flat-square&logo=google&logoColor=F1C40F" alt="AI" />
+
+<br/>
+
+**Excel Master Tool**
+> A powerful Python utility that automates the cleaning, analysis, and reporting of messy datasets. It transforms hours of tedious manual data entry into a single script run, generating cleanly formatted reports and dynamic visual charts.
+> <br/>
+> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=F1C40F" alt="Python" /> <img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&logo=pandas&logoColor=F1C40F" alt="Pandas" /> <img src="https://img.shields.io/badge/Data_Reporting-000000?style=flat-square&logo=googlesheets&logoColor=F1C40F" alt="Automation" />
+
+<br/>
+
+**System Cleaner**
+> A lightweight, highly efficient desktop application engineered to optimize computer performance. Designed to meticulously manage system resources, clear redundancies, and handle local file processing with speed.
+> <br/>
+> <img src="https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=F1C40F" alt="Python" /> <img src="https://img.shields.io/badge/PyQt5-000000?style=flat-square&logo=qt&logoColor=F1C40F" alt="PyQt5" />
 
 ---
 
-### GitHub Statistics
+### Languages
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Arabic-Native-000000?style=for-the-badge&logoColor=F1C40F" alt="Arabic" />
+  <img src="https://img.shields.io/badge/English-Professional-000000?style=for-the-badge&logoColor=F1C40F" alt="English" />
+  <img src="https://img.shields.io/badge/French-Professional-000000?style=for-the-badge&logoColor=F1C40F" alt="French" />
+</div>
+
+---
+
+### GitHub Activity
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=safouane02&show_icons=true&bg_color=0D1117&title_color=F1C40F&text_color=ffffff&icon_color=F1C40F&border_color=F1C40F&hide_border=false" alt="Safouane's GitHub Stats" />
@@ -74,8 +109,8 @@ I build modern web applications and powerful automation tools, ranging from resp
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=safouane02&layout=compact&bg_color=0D1117&title_color=F1C40F&text_color=ffffff&border_color=F1C40F&hide_border=false" alt="Top Languages" />
 </div>
 
----
+<br/>
 
-### Languages
-
-**Arabic** (Native) &nbsp;&middot;&nbsp; **English** (Professional) &nbsp;&middot;&nbsp; **French** (Professional)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safouane02&theme=dark&background=0D1117&fire=F1C40F&ring=F1C40F&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+</div>
