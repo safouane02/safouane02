@@ -99,7 +99,7 @@ I am a Full-Stack Developer and Python Engineer with 4 years of professional exp
 
 ---
 
-### GitHub Activity
+### GitHub Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=safouane02&show_icons=true&bg_color=0D1117&title_color=F1C40F&text_color=ffffff&icon_color=F1C40F&border_color=F1C40F&hide_border=false" alt="Safouane's GitHub Stats" />
@@ -113,4 +113,12 @@ I am a Full-Stack Developer and Python Engineer with 4 years of professional exp
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=safouane02&theme=dark&background=0D1117&fire=F1C40F&ring=F1C40F&currStreakNum=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+#### Yearly Contribution Flight Path
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=safouane02&bg_color=0D1117&color=F1C40F&line=F1C40F&point=ffffff&area=true&hide_border=true" alt="Safouane's Contribution Graph" />
 </div>
