@@ -1,146 +1,166 @@
 <div align="center">
 
-```
-███████╗ █████╗ ███████╗ ██████╗ ██╗   ██╗ █████╗ ███╗   ██╗███████╗
-██╔════╝██╔══██╗██╔════╝██╔═══██╗██║   ██║██╔══██╗████╗  ██║██╔════╝
-███████╗███████║█████╗  ██║   ██║██║   ██║███████║██╔██╗ ██║█████╗  
-╚════██║██╔══██║██╔══╝  ██║   ██║██║   ██║██╔══██║██║╚██╗██║██╔══╝  
-███████║██║  ██║██║     ╚██████╔╝╚██████╔╝██║  ██║██║ ╚████║███████╗
-╚══════╝╚═╝  ╚═╝╚═╝      ╚═════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝╚══════╝
-```
+<!-- animated name -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=1&pause=99999&color=F1C40F&center=true&vCenter=true&repeat=false&width=700&lines=SAFOUANE+BAADOUD" alt="Safouane Baadoud" />
 
-### Full-Stack Developer · Python Engineer · Automation Specialist
-
-<a href="mailto:safouanebaadoud@gmail.com">
-  <img src="https://img.shields.io/badge/safouanebaadoud@gmail.com-000?style=for-the-badge&logo=gmail&logoColor=F1C40F" />
-</a>
-&nbsp;
-<a href="https://github.com/safouane02">
-  <img src="https://img.shields.io/badge/@safouane02-000?style=for-the-badge&logo=github&logoColor=F1C40F" />
-</a>
-&nbsp;
-<img src="https://img.shields.io/badge/Algeria-000?style=for-the-badge&logo=googlemaps&logoColor=F1C40F" />
+<!-- terminal lines animation -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=14&duration=3000&pause=1200&color=888888&center=true&vCenter=true&width=700&lines=%E2%9D%AF+whoami+%E2%86%92+Full-Stack+Developer+%26+Automation+Engineer;%E2%9D%AF+cat+stack.txt+%E2%86%92+React+%C2%B7+Python+%C2%B7+Playwright+%C2%B7+PyQt5;%E2%9D%AF+echo+%24MISSION+%E2%86%92+Eliminate+manual+work.+Ship+clean+code.;%E2%9D%AF+ls+projects%2F+%E2%86%92+escrow%2F+sf-bot%2F+excel-master%2F+sys-cleaner%2F;%E2%9D%AF+echo+%24STATUS+%E2%86%92+Available+for+new+projects+%E2%9C%93" alt="Terminal animation" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=F1C40F&center=true&vCenter=true&width=600&lines=Building+tools+that+eliminate+manual+work.;React+%2B+Tailwind+%2B+Python+%2B+Automation.;Clean+code.+Real+solutions.+No+bloat." />
+<!-- badges row -->
+<img src="https://img.shields.io/badge/status-available_for_projects-F1C40F?style=for-the-badge&labelColor=0a0a0a" />
+&nbsp;
+<a href="mailto:safouanebaadoud@gmail.com">
+  <img src="https://img.shields.io/badge/email-safouanebaadoud@gmail.com-111?style=for-the-badge&logo=gmail&logoColor=F1C40F&labelColor=111" />
+</a>
+&nbsp;
+<a href="https://github.com/safouane02">
+  <img src="https://img.shields.io/badge/github-@safouane02-111?style=for-the-badge&logo=github&logoColor=F1C40F&labelColor=111" />
+</a>
 
 </div>
 
 ---
 
-## About
-
-I build things that make repetitive work disappear. Four years of experience across full-stack web development, Python automation, and desktop utilities — with a strong focus on clean architecture and interfaces people actually enjoy using.
-
-My background in electrical engineering shapes how I think about systems: efficiency matters, every component has a purpose, and complexity should be managed, not ignored.
-
-Currently scaling **Safouane Escrow** and building local AI-powered desktop tools.
+```
+building things that eliminate manual work.
+4 years · react · python · discord bots · desktop apps · automation
+```
 
 ---
 
-## Tech Stack
+## Stack
+
+<table>
+<tr>
+<td valign="top" width="33%">
 
 **Frontend**
+```
+React       ████████████░  90%
+Tailwind    ███████████░░  85%
+JavaScript  ████████████░  88%
+HTML / CSS  █████████████  95%
+```
 
-![React](https://img.shields.io/badge/React-000?style=flat-square&logo=react&logoColor=F1C40F)
-![Vite](https://img.shields.io/badge/Vite-000?style=flat-square&logo=vite&logoColor=F1C40F)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=flat-square&logo=tailwindcss&logoColor=F1C40F)
-![JavaScript](https://img.shields.io/badge/JavaScript-000?style=flat-square&logo=javascript&logoColor=F1C40F)
-![HTML5](https://img.shields.io/badge/HTML5-000?style=flat-square&logo=html5&logoColor=F1C40F)
-![CSS3](https://img.shields.io/badge/CSS3-000?style=flat-square&logo=css3&logoColor=F1C40F)
+</td>
+<td valign="top" width="33%">
 
 **Backend & Automation**
+```
+Python      █████████████  90%
+Playwright  ████████████░  88%
+Selenium    ███████████░░  82%
+Pandas      ██████████░░░  78%
+```
 
-![Python](https://img.shields.io/badge/Python-000?style=flat-square&logo=python&logoColor=F1C40F)
-![Playwright](https://img.shields.io/badge/Playwright-000?style=flat-square&logo=playwright&logoColor=F1C40F)
-![Selenium](https://img.shields.io/badge/Selenium-000?style=flat-square&logo=selenium&logoColor=F1C40F)
-![Pandas](https://img.shields.io/badge/Pandas-000?style=flat-square&logo=pandas&logoColor=F1C40F)
+</td>
+<td valign="top" width="33%">
 
 **Desktop & Bots**
+```
+PyQt5       ██████████░░░  76%
+Discord.py  ████████████░  87%
+Tkinter     █████████░░░░  72%
+Git / CI    ████████████░  88%
+```
 
-![PyQt5](https://img.shields.io/badge/PyQt5-000?style=flat-square&logo=qt&logoColor=F1C40F)
-![Discord.py](https://img.shields.io/badge/Discord.py-000?style=flat-square&logo=discord&logoColor=F1C40F)
-![Tkinter](https://img.shields.io/badge/Tkinter-000?style=flat-square&logo=python&logoColor=F1C40F)
-
-**Infrastructure**
-
-![Git](https://img.shields.io/badge/Git-000?style=flat-square&logo=git&logoColor=F1C40F)
-![GitHub](https://img.shields.io/badge/GitHub-000?style=flat-square&logo=github&logoColor=F1C40F)
-![Render](https://img.shields.io/badge/Render-000?style=flat-square&logo=render&logoColor=F1C40F)
-![Railway](https://img.shields.io/badge/Railway-000?style=flat-square&logo=railway&logoColor=F1C40F)
+</td>
+</tr>
+</table>
 
 ---
 
 ## Projects
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 ### 🔒 Safouane Escrow System
-A web-based escrow platform built for digital service and account transactions. The entire flow — from deal creation to fund release — is handled through a clean, transparent interface designed to make both parties feel secure.
+Web-based escrow platform for digital service and account transactions. Full audit trail, transparent deal lifecycle, trust-focused UI.
 
-**Stack:** React · Tailwind CSS · Custom Security Layer
+`React` `Tailwind CSS` `Secure Gateway`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🤖 SF Discord Bot
-A community management bot with 100+ commands covering moderation, ticketing, and automated workflows. Built to handle large-scale servers without degrading under load, with AI integration for intelligent support responses.
+Community management bot with 100+ commands. AI-powered support tickets, automated moderation, built to handle large servers without degrading.
 
-**Stack:** Python · Discord.py · AI APIs
+`Python` `Discord.py` `AI APIs`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📊 Excel Master Tool
-A Python utility that handles messy datasets so you don't have to. Drop in a file, get back cleaned data, formatted reports, and visual charts — in a single run.
+Drop in a messy dataset. Get back cleaned data, formatted reports, and visual charts — in a single run.
 
-**Stack:** Python · Pandas · OpenPyXL · Matplotlib
+`Python` `Pandas` `Matplotlib` `OpenPyXL`
 
----
+</td>
+<td width="50%" valign="top">
 
 ### 🧹 System Cleaner
-A lightweight PyQt5 desktop app that manages system resources and clears junk files. Built for speed with a minimal UI that stays out of your way.
+Lightweight PyQt5 desktop app for system optimization and junk file removal. Built for speed, minimal UI.
 
-**Stack:** Python · PyQt5
+`Python` `PyQt5`
 
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🌐 Personal Portfolio
-High-performance personal site with cinematic animations and an interactive project explorer. Designed to showcase work, not just list it.
+High-performance personal site with cinematic animations and an interactive project explorer.
 
----
+`React` `Vite` `Tailwind CSS`
+
+</td>
+<td width="50%" valign="top">
 
 ### 🏨 Hospitality Management System
-Full-stack booking and management platform for the hospitality sector. Clean reservation flows, modern UI, and a backend that handles concurrent bookings without conflict.
+Full-stack booking platform with conflict-free reservations, modern UI, and clean backend architecture.
+
+`React` `Python` `Railway`
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=safouane02&show_icons=true&bg_color=0D1117&title_color=F1C40F&text_color=ffffff&icon_color=F1C40F&border_color=333&hide_border=false&count_private=true" />
-  &nbsp;&nbsp;
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safouane02&layout=compact&bg_color=0D1117&title_color=F1C40F&text_color=ffffff&border_color=333&hide_border=false&langs_count=6" />
-</div>
 
-<br/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=safouane02&show_icons=true&bg_color=0a0a0a&title_color=F1C40F&text_color=888888&icon_color=F1C40F&border_color=222&hide_border=false&count_private=true&rank_icon=github" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safouane02&layout=compact&bg_color=0a0a0a&title_color=F1C40F&text_color=888888&border_color=222&hide_border=false&langs_count=6" />
+
+</div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=safouane02&theme=dark&background=0D1117&fire=F1C40F&ring=F1C40F&currStreakNum=ffffff&sideNums=ffffff&sideLabels=aaaaaa&dates=aaaaaa&border=333333" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=safouane02&theme=dark&background=0a0a0a&fire=F1C40F&ring=F1C40F&currStreakNum=ffffff&sideNums=888888&sideLabels=444444&dates=444444&border=222222" />
+
 </div>
-
----
-
-## Education & Background
-
-- **University Level** — Science & Technology Studies
-- **Secondary Education** — Electrical Engineering specialization
-
----
-
-## Languages
-
-**Arabic** — Native &nbsp;·&nbsp; **English** — Professional &nbsp;·&nbsp; **French** — Professional
 
 ---
 
 <div align="center">
-  <sub>Built and maintained by <a href="https://github.com/safouane02">@safouane02</a></sub>
+
+<img src="https://img.shields.io/badge/Arabic-Native-111?style=flat-square&logoColor=F1C40F" />
+&nbsp;
+<img src="https://img.shields.io/badge/English-Professional-111?style=flat-square&logoColor=F1C40F" />
+&nbsp;
+<img src="https://img.shields.io/badge/French-Professional-111?style=flat-square&logoColor=F1C40F" />
+
+<br/><br/>
+
+<sub><code>Algeria · Electrical Engineering background · github.com/safouane02</code></sub>
+
 </div>
