@@ -34,47 +34,40 @@
 
 ## `$ cat stack.txt`
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<div align="center">
 
 **[ Frontend ]**
-```
-React       ████████████░  90%
-Tailwind    ███████████░░  85%
-JavaScript  ████████████░  88%
-HTML / CSS  █████████████  95%
-```
 
-</td>
-<td valign="top" width="33%">
+![React](https://img.shields.io/badge/React-0a0a0a?style=for-the-badge&logo=react&logoColor=00FF41)
+![JavaScript](https://img.shields.io/badge/JavaScript-0a0a0a?style=for-the-badge&logo=javascript&logoColor=00FF41)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-0a0a0a?style=for-the-badge&logo=tailwindcss&logoColor=00FF41)
+![HTML5](https://img.shields.io/badge/HTML5-0a0a0a?style=for-the-badge&logo=html5&logoColor=00FF41)
+![CSS3](https://img.shields.io/badge/CSS3-0a0a0a?style=for-the-badge&logo=css3&logoColor=00FF41)
+![Vite](https://img.shields.io/badge/Vite-0a0a0a?style=for-the-badge&logo=vite&logoColor=00FF41)
 
 **[ Backend & Automation ]**
-```
-Python      █████████████  90%
-Playwright  ████████████░  88%
-Selenium    ███████████░░  82%
-Pandas      ██████████░░░  78%
-```
 
-</td>
-<td valign="top" width="33%">
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=00FF41)
+![Playwright](https://img.shields.io/badge/Playwright-0a0a0a?style=for-the-badge&logo=playwright&logoColor=00FF41)
+![Selenium](https://img.shields.io/badge/Selenium-0a0a0a?style=for-the-badge&logo=selenium&logoColor=00FF41)
+![Pandas](https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=00FF41)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=for-the-badge&logo=fastapi&logoColor=00FF41)
 
 **[ Desktop & Bots ]**
-```
-PyQt5       ██████████░░░  76%
-Discord.py  ████████████░  87%
-Tkinter     █████████░░░░  72%
-Git / CI    ████████████░  88%
-```
 
-</td>
-</tr>
-</table>
+![PyQt5](https://img.shields.io/badge/PyQt5-0a0a0a?style=for-the-badge&logo=qt&logoColor=00FF41)
+![Discord.py](https://img.shields.io/badge/Discord.py-0a0a0a?style=for-the-badge&logo=discord&logoColor=00FF41)
+![Tkinter](https://img.shields.io/badge/Tkinter-0a0a0a?style=for-the-badge&logo=python&logoColor=00FF41)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=00FF41)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0a0a0a?style=for-the-badge&logo=githubactions&logoColor=00FF41)
+
+</div>
 
 ---
 
 ## `$ cat /proc/activity` — Contribution Map
+
+> ⚙️ **Setup required** — run the workflow below once to activate the snake animation.
 
 <div align="center">
 
