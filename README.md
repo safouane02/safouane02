@@ -67,8 +67,6 @@
 
 ## `$ cat /proc/activity` — Contribution Map
 
-> ⚙️ **Setup required** — run the workflow below once to activate the snake animation.
-
 <div align="center">
 
 <picture>
